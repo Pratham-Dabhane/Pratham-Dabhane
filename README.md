@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Dabhane</h1>
 <h3 align="center">A dedicated AI and Data Science enthusiast from India, with a passion for building intelligent systems, crafting data-driven solutions, and exploring cloud and DevOps technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratham-Dabhane&label=Profile%20views&color=0e75b6&style=flat" alt="Pratham-Dabhane" /> </p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pratham-Dabhane" alt="Pratham-Dabhane" />
-  </a> 
-</p>
-
 <br>
 <hr>
 <br>
@@ -57,7 +49,10 @@
   ...
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pratham-Dabhane)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham-Dabhane&show_icons=true&locale=en" alt="Pratham-Dabhane" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Dabhane&" alt="Pratham-Dabhane" /></p>
 
 
