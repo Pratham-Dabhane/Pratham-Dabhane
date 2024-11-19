@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pratham Dabhane</h1>
 <h3 align="center">A dedicated AI and Data Science enthusiast from India, with a passion for building intelligent systems, crafting data-driven solutions, and exploring cloud and DevOps technologies.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratham-Dabhane&label=Profile%20views&color=0e75b6&style=flat" alt="Pratham-Dabhane" /> </p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pratham-Dabhane" alt="Pratham-Dabhane" />
+  </a> 
+</p>
+
 <br>
 <hr>
 <br>
@@ -28,15 +36,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@pracode.hashnode.dev" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/Pratham-Dabhane" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham-dabhane" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pratham-Dabhane" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/pratham_dabhane" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratham_dabhane" height="30" width="40" />
   </a>
 </p>
 
-<br> <!-- Adding space -->
-<hr> <!-- Optional horizontal line -->
+<br> 
+<hr> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" align="left" style="display: flex; gap: 15px; flex-wrap: wrap;"> 
@@ -50,5 +58,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham-Dabhane&show_icons=true&locale=en" alt="Pratham-Dabhane" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Dabhane&" alt="Pratham-Dabhane" /></p>
+
+
+
