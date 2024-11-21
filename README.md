@@ -53,7 +53,7 @@
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pratham-Dabhane)
-<img src="https://s3.ezgif.com/tmp/ezgif-3-04db97bcc6.gif" alt="Demo gif" width="500"/>
+  <img src="https://s3.ezgif.com/tmp/ezgif-3-04db97bcc6.gif" alt="Demo gif" width="500"/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham-Dabhane&show_icons=true&locale=en" alt="Pratham-Dabhane" /></p>
