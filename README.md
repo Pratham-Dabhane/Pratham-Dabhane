@@ -53,6 +53,8 @@
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pratham-Dabhane)
+<img src="Assets/morty.gif" alt="Demo Video" width="500">
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham-Dabhane&show_icons=true&locale=en" alt="Pratham-Dabhane" /></p>
 
