@@ -52,9 +52,14 @@
   ...
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pratham-Dabhane)
-  <img src="https://s3.ezgif.com/tmp/ezgif-3-04db97bcc6.gif" alt="Demo gif" width="500"/>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/162281cc-8f75-48ad-81de-896ae83934ce" 
+       alt="morty" 
+       style="width: 40%; max-height: 40%;" />
+  <img src="https://leetcard.jacoblin.cool/Pratham-Dabhane" 
+       alt="LeetCode Stats" 
+       style="max-width: 100%; height: auto;" />
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham-Dabhane&show_icons=true&locale=en" alt="Pratham-Dabhane" /></p>
 
