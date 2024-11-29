@@ -10,7 +10,10 @@
 
 - 🌱 I’m currently learning **advanced concepts in AI, Data Science, and DevOps, including Docker and real-time data visualization using Go and Python.**
 
-- 📝 I regularly write articles on [pracode.hashnode.dev](https://pracode.hashnode.dev)
+- 📝 I regularly write articles on:
+  - Hashnode: [pracode.hashnode.dev](https://pracode.hashnode.dev)
+  - Dev.to: [pracode_2503](https://dev.to/pracode_2503)
+  - Medium: [pratham.dabhane.2503](https://medium.com/@pratham.dabhane.2503)
 
 - 💬 Ask me about **AI, Data Science, Python, DevOps tools, and real-time data visualization.**
 
