@@ -65,8 +65,3 @@
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham-Dabhane&show_icons=true&locale=en" alt="Pratham-Dabhane" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham-Dabhane&" alt="Pratham-Dabhane" /></p>
-
-
-
